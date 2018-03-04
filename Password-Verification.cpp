@@ -46,5 +46,7 @@ int main(){
     {
         cout<<strong<<endl;
     }
+    
+    return 0;
 
 }
